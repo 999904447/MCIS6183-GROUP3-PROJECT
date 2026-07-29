@@ -1,3 +1,4 @@
+#OPENAI_API_KEY value is removed beacuse of security reason
 {
     "OPENAI_API_KEY": "",
     "OPENAI_API_BASE": "https://api.openai.com/v1"
